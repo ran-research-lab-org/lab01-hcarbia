@@ -10,5 +10,5 @@ int main() {
   sum = number1 + number2;
   std::cout << "The sum of these two integers is "
             << sum << std::endl;
-  return 0}
+  return 0;}
 
