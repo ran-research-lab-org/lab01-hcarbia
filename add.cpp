@@ -9,6 +9,6 @@ int main() {
   number2 = 13;
   sum = number1 + number2;
   std::cout << "The sum of these two integers is "
-            << sum << std::endl
-  return 0;}
+            << sum << std::endl;
+  return 0}
 
