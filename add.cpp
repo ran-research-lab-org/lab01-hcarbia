@@ -8,7 +8,7 @@ int main() {
   number1 = 12;
   number2 = 13;
   sum = number1 + number2;
-  std::cout << "The sum of these two integers is "
+  stdd::cout << "The sum of these two integers is "
             << sum << std::endl;
-  return 0;
+  return 0;}
 
