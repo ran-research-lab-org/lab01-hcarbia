@@ -5,7 +5,7 @@
 
 int main() {
   int number1, number2, sum;
-  number1 = 12;
+  number1 = 12
   number2 = 13;
   sum = number1 + number2;
   std::cout << "The sum of these two integers is "
